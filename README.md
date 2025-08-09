@@ -1,5 +1,6 @@
 # Regulatory Affairs of Road Accident Data 2020 India
 📌 Overview
+
 This project analyzes road accident data for India in 2020 to identify trends, causes, and outcomes of incidents. The dataset contains details such as the location of accidents, causes, and accident severity, which are explored using data cleaning, visualization, and analysis techniques.
 The aim is to provide insights for regulatory affairs and policy-making, enabling data-driven decisions to improve road safety.
 
