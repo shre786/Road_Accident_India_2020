@@ -25,6 +25,7 @@ Severity/Outcome (Fatal, Injury, Property Damage, etc.)
 🛠️ Techniques Used
 
 Data Cleaning – Removed missing/irrelevant entries and formatted columns for consistency.
+
 Exploratory Data Analysis (EDA) – Explored structure, shape, and statistical summary of the dataset.
 Data Visualization – Used bar charts, pie charts, and stacked bar plots for better insights.
 Distribution Analysis – Studied distribution of accident counts across cities and categories.
